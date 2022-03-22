@@ -11,4 +11,5 @@ These are our objectives in this case:
 
 Made by Rian Rodrigues de Oliveira.
 
+The notebook for this case can be found on https://colab.research.google.com/drive/11arklVl-amALo669PNhKSyHeYNv4sOib?usp=sharing, also available on this repository in the "Notebook" folder
 The dataset for this case can be found on https://www.kaggle.com/arjunbhasin2013/ccdata, also available on this repository in the "Data" folder.
